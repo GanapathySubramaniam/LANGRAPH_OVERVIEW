@@ -1,8 +1,5 @@
 # 🚀 LangGraph Web Search Integration
 
-![LangChain]()
-![OpenAI]()
-
 
 ## 📚 Table of Contents
 - [Overview](#-overview)
