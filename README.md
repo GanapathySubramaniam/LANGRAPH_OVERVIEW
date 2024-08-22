@@ -33,7 +33,7 @@ The LangGraph Web Search Integration project revolutionizes information retrieva
 
 1. Ensure you have Python 3.7+ installed and the required API keys (OpenAI and SerpAPI).
 2. Clone the repository and navigate to the project directory.
-3. Open `LangGraph_Web_Search_Integration.ipynb` in Jupyter Notebook.
+3. Open `langraph.ipynb` in Jupyter Notebook.
 4. Run all cells to set up the LangGraph workflow.
 5. Modify the example prompts in the last cell:
    ```python
