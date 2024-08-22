@@ -1,7 +1,7 @@
 # 🚀 LangGraph Web Search Integration
 
-![LangChain](https://img.shields.io/badge/LangChain-Latest-green)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-orange)
+![LangChain]()
+![OpenAI]()
 
 
 ## 📚 Table of Contents
